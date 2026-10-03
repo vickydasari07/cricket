@@ -1,0 +1,6 @@
+{
+  "name": "CC – Cyber Cricket",
+  "description": "Your Cricket. Your Score. Your Game. Modern ball-by-ball cricket scoring, player & team management, live scoreboard, and detailed statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
